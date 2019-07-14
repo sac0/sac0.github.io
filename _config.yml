@@ -6,7 +6,7 @@ title                    : "Grokking Code"
 title_separator          : "|"
 name                     : # Read title by default
 description              : ""
-url                      : "https://sachingovind.com"
+url                      : "https://sac0.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/sac0"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
