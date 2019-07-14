@@ -7,7 +7,7 @@ title_separator          : "|"
 name                     : # Read title by default
 description              : ""
 url                      : "https://sac0.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog"
 repository               : "sac0/sac0.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
