@@ -811,8 +811,12 @@ body {
   max-height: calc(95vh - 7rem);
   text-align: right;
 }
+#header-post #toc a {
+  transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+}
 #header-post #toc a:hover {
   color: #d480aa;
+  transform: translate(5px);
 }
 #header-post #toc .toc-level-1 > .toc-link {
   display: none;
@@ -841,6 +845,10 @@ body {
 }
 #header-post #toc .toc-number {
   display: none;
+}
+#header-post #toc .current {
+  color: #d480aa;
+  transform: translate(5px);
 }
 @media screen and (max-width: 500px) {
   #header-post {
